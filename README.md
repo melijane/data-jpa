@@ -11,7 +11,7 @@ sistema de facturacion hecho en springboot
 >**Importaciones en view**
 -csv
 -pdf
--xls
+-vls
 >**note: para el inicio de sesion :** 
 [username: admin  password :12345]
 [username: melissa password :12345]
